@@ -2,24 +2,65 @@
     [
         {
             "id":"1",
-            "nombre":"Andres",
-            "apellido":"Silva",
-            "estado":true,
-            "edad":"32"
+            "nombre":"Thibaut Courtois",
+            "edad":"29",
+            "foto":"https://assets-es.imgfoot.com/media/cache/60x60/person/thibaut-courtois.jpg"
         },
         {
             "id":"2",
-            "nombre":"Julio",
-            "apellido":"Villa",
-            "estado":true,
-            "edad":"12"
-        },
-        {
-            "id":"3",
-            "nombre":"Carlos",
-            "apellido":"Canelo",
-            "estado":true,
-            "edad":"25"
+            "nombre":"Dani Carvajal",
+            "edad":"29",
+            "foto":"https://assets-es.imgfoot.com/media/cache/60x60/person/daniel-carvajal.jpg"
+        },{
+            "id":"12",
+            "nombre":"Marcelo",
+            "edad":"33",
+            "foto":"https://assets-es.imgfoot.com/media/cache/60x60/person/marcelo.jpg"
+        },{
+            "id":"17",
+            "nombre":"Lucas Vázquez",
+            "edad":"30",
+            "foto":"https://assets-es.imgfoot.com/media/cache/60x60/person/lucas-vazquez.jpg"
+        },{
+            "id":"6",
+            "nombre":"Nacho",
+            "edad":"31",
+            "foto":"https://assets-es.imgfoot.com/media/cache/60x60/person/nacho.jpg"
+        },{
+            "id":"8",
+            "nombre":"Toni Kroos",
+            "edad":"31",
+            "foto":"https://assets-es.imgfoot.com/media/cache/60x60/person/toni-kroos.jpg"
+        },{
+            "id":"14",
+            "nombre":"Casemiro",
+            "edad":"29",
+            "foto":"https://assets-es.imgfoot.com/media/cache/60x60/person/casemiro.jpg"
+        },{
+            "id":"22",
+            "nombre":"Isco",
+            "edad":"29",
+            "foto":"https://assets-es.imgfoot.com/media/cache/60x60/person/isco.jpg"
+        },{
+            "id":"7",
+            "nombre":"Eden Hazard",
+            "edad":"30",
+            "foto":"https://assets-es.imgfoot.com/media/cache/60x60/person/eden-hazard.jpg"
+        },{
+            "id":"9",
+            "nombre":"Karim Benzema",
+            "edad":"33",
+            "foto":"https://assets-es.imgfoot.com/media/cache/60x60/person/karim-benzema.jpg"
+        },{
+            "id":"16",
+            "nombre":"Luka Jović",
+            "edad":"23",
+            "foto":"https://assets-es.imgfoot.com/media/cache/60x60/person/luka-jovic.jpg"
+        },{
+            "id":"20",
+            "nombre":"Vinícius Jr",
+            "edad":"21",
+            "foto":"https://assets-es.imgfoot.com/media/cache/60x60/person/vinicius-jr.jpg"
         }
     ]
 
