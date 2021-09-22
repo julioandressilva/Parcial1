@@ -1,11 +1,25 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  [
+        {
+            "id":"1",
+            "nombre":"Andres",
+            "apellido":"Silva",
+            "estado":true,
+            "edad":"32"
+        },
+        {
+            "id":"2",
+            "nombre":"Julio",
+            "apellido":"Villa",
+            "estado":true,
+            "edad":"12"
+        },
+        {
+            "id":"3",
+            "nombre":"Carlos",
+            "apellido":"Canelo",
+            "estado":true,
+            "edad":"25"
+        }
+    ]
 }
